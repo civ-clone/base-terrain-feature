@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-terrain-feature",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "What happens to a terrain's features when a tile's terrain changes, and a Watercourse marker for features that aren't resources.",
   "repository": "git@github.com:civ-clone/base-terrain-feature.git",
   "keywords": [
